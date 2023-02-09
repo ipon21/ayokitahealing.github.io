@@ -38,13 +38,13 @@
 /*--------------------------------------------------------------------- resvonsif ---------------------------------------------------------------------*/
 
 /* Media Queries: Tablet Landscape */
-@media screen and (max-width: 1060px) {
-    #primary ( width: 678; ) 
+@media screen and (max-width: 844px) {
+    #primary ( width: 390; ) 
     #secondary ( width: 30%; margin-left:38;)
 }
 
 /* Media Queries: Tabled Portrait */
-@media screen and (max-width: 768px) {   
+@media screen and (max-width: 844px) {   
     #primary ( width: 100%; 1
     #secondary ( width: 100%; margin: 0; border:none; )
 }
