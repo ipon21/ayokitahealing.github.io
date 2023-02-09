@@ -38,8 +38,8 @@
 /*--------------------------------------------------------------------- resvonsif ---------------------------------------------------------------------*/
 
 /* Media Queries: Tablet Landscape */
-@media screen and (max-width: 844px) {
-    #primary ( width: 390; ) 
+@media screen and (max-width: 1024px) {
+    #primary ( width: 440; ) 
     #secondary ( width: 30%; margin-left:38;)
 }
 
