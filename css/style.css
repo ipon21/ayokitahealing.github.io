@@ -631,7 +631,7 @@ button {
 }
 
 .client_taital {
-    width: 100%;
+    width: 90%;
     font-size: 40px;
     color: #131313;
     font-weight: bold;
@@ -640,7 +640,7 @@ button {
 }
 
 .client_section_2 {
-    width: 80%;
+    width: 60%;
     margin: 0 auto;
     text-align: center;
     background-color: #d4d4d4;
@@ -651,7 +651,7 @@ button {
 }
 
 .client_main {
-    width: 90%;
+    width: 70%;
     display: flex;
 }
 
