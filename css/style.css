@@ -635,7 +635,7 @@ button {
     font-size: 40px;
     color: #131313;
     font-weight: bold;
-    padding-top: 28px;
+    padding-top: 30px;
     text-align: center;
 }
 
@@ -660,7 +660,7 @@ button {
 }
 
 .box_right {
-    width: 38%;
+    width: 48%;
     float: right;
     padding-top: 65px;
     margin-left: 30px;
