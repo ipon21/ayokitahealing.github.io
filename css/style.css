@@ -632,10 +632,7 @@ button {
 
 .client_taital {
     width: 90%;
-    font-size: 40px;
-    color: #131313;
-    font-weight: bold;
-    padding-top: 30px;
+    padding-top: 10px;
     text-align: center;
 }
 
